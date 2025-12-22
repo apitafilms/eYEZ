@@ -9,7 +9,7 @@
 > Thanks. ~ **APITA Films**.
 
 ## HOW DO I HELP?
-* Join us (contact ![us](mailto:apitafilms@gmail.com))
+* Join us (contact [us](mailto:apitafilms@gmail.com))
 * Archive this repo.
 * Send us digital currency.
   - * 20% will help fund our research equipment. (calling apps, reverse facial analysis, etc.)
