@@ -20,3 +20,12 @@
 BTC:
 ```
 bc1q7ssyjh0cz9z2qegl79xcdr7679yrejc8y9p0t8
+```
+XMR:
+```
+891GioXnzrwDqXrQswLBvzUDdV37aU8FNiMpCAanrbra9XP1xVZN66oBuXCFVjmuemUtBchYBbWr8LJBCbtddEjCDZ8JAiB
+```
+CASH APP:
+```
+https://cash.app/$APITAFilms
+```
