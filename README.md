@@ -31,5 +31,5 @@ https://cash.app/$APITAFilms
 You can download it [here](https://github.com/apitafilms/3432/releases/download/archive/archive.zip).
 
 ## REPORT ICE
-* [ICE in my area](https://www.iceinmyarea.org
-* [3432 Pull Request](
+* [ICE in my area](https://www.iceinmyarea.org)
+* [Pull Request (3432)](https://github.com/apitafilms/3432/pulls)
