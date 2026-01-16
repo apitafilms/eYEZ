@@ -1,5 +1,4 @@
-remote_theme: pages-themes/hacker@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+# With GitHub Pages Gem
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 title: eYEZ
-description: A movement against bigots. (e.g. ICE agents, and Trump Supporters)
+description: A movement against bigots. (e.g. ICE agents, and Trump Supporters# With GitHub Pages Gem
