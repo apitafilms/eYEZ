@@ -1,2 +1,4 @@
+gem "github-pages", group: :jekyll_plugins
+remote_theme: broccolini/swiss
 title: eYEZ
 description: A movement against bigots. (e.g. ICE agents, and Trump Supporters, etc)
